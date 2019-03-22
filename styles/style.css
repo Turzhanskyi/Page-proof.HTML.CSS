@@ -281,7 +281,6 @@ p i {
   opacity: 0.4;
 }
 
-
 .team .img-photo {
   margin-bottom: 30px;
 }
@@ -296,3 +295,53 @@ p i {
   color: #565656;
 }
 
+
+/* footer */
+
+
+.footer {
+  text-align: center;
+  background-color: #3d3d3d;
+  min-height: 261px;
+}
+
+
+.social-icons {
+  padding: 50px 0;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.icon-wrapper {
+  width: 50px;
+  height: 50px;
+  background-color: #fff;
+  display: inline-block;
+  border-radius: 50%;
+  line-height: 50px;
+  margin: 0 6px;
+}
+
+.footer-icon {
+  color: #3d3d3d;
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+
+.footer-icon {
+  color: #3d3d3d;
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+
+.footer-text {
+  width: 500px;
+  line-height: 22px;
+  margin: 30px auto;
+  font-size: 16px;
+  color: #fff;
+}
