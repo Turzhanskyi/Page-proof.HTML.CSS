@@ -248,3 +248,51 @@ p i {
   color: #007765;
   margin-bottom: 0.5em;
 }
+
+
+/* team */
+
+
+.team {
+  text-align: center;
+  padding: 76px 0 96px;
+}
+
+.team h2 {
+  margin-bottom: 10px;
+}
+
+.team h6 {
+  margin-bottom: 70px;
+}
+
+.team .photos-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.team .photo {
+  width: 297px;
+  margin-bottom: 48px;
+}
+
+.team .photo:hover {
+  opacity: 0.4;
+}
+
+
+.team .img-photo {
+  margin-bottom: 30px;
+}
+
+.team p {
+  color: #007765;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.team i {
+  color: #565656;
+}
+
