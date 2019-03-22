@@ -187,3 +187,64 @@ p i {
   margin: 34px auto 30px;
   max-width: 140px;
 }
+
+
+/* tech */
+
+
+.tech {
+  background-color: #eee;
+  padding: 90px 0 120px;
+  text-align: center;
+}
+
+.tech h2 {
+  margin-bottom: 40px;
+}
+
+.tech h6 {
+  margin-bottom: 90px;
+}
+
+.tech .icon {
+  margin-bottom: 67px;
+}
+
+
+.tech .img-icon {
+  display: inline-block;
+  padding-top: 1em;
+  width: 33%;
+}
+
+
+.tech .img-icon img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  transform: scale(0.8);
+}
+
+
+.tech .dir-right p {
+  direction: rtl;
+  text-align: justify;
+}
+
+.tech .dir-left p {
+  text-align: justify;
+  direction: ltr;
+}
+
+
+.tech .icon .description {
+  display: inline-block;
+  vertical-align: top;
+  width: 66%;
+}
+
+
+.tech p.title {
+  color: #007765;
+  margin-bottom: 0.5em;
+}
